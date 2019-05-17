@@ -1,5 +1,5 @@
 # Patrycjusz-hexapod
-(./img/hexa.png)
+![Photo of hexa body](./img/hexa.png)
 >The jurney from zero to archive a fully working 3d printed hexapod 18 dof. No previous knowlege of 3d designing or printing. Self lerning and my determination brought me to this ...
 
 ## Table of content
