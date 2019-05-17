@@ -36,7 +36,7 @@ Archived so far
 	This all steps took me about 1,5 month.
 
 ## Contact
-	Fell free to ask questions about this project at `patrykgruzlewski@gmail.com`
+	Feel free to ask questions about this project at `patrykgruzlewski@gmail.com`
 
 
 
