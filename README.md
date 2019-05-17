@@ -6,7 +6,7 @@
 * [Status](#status)
 * [General Info](#general-info)
 * [So far](#so-far)
-* [History](#history)
+* [Contact](#contact)
 
 
 
@@ -14,7 +14,11 @@
 	In progress ...
 
 ## General Info
-	In progress ...
+	3D printer - Ender 3
+	Filament - dirt cheap 1,75mm PLA
+	Software - Fusion360, Cura2, OctoPi
+	Programming language - Python
+	Electronics used - Rpi zero w and sg90 servos
 
 ## So far
 
@@ -31,8 +35,8 @@ Archived so far
 	
 	This all steps took me about 1,5 month.
 
-## History
-	In progress
+## Contact
+	Fell free to ask questions about this project at `patrykgruzlewski@gmail.com`
 
 
 
