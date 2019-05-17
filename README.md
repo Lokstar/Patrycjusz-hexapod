@@ -1,6 +1,6 @@
 # Patrycjusz-hexapod
 ![Photo of hexa body](./img/hexa.png)
->The jurney from zero to archive a fully working 3d printed hexapod 18 dof. No previous knowlege of 3d designing or printing. Self lerning and my determination brought me to this ...
+>The journey from zero to hero. Triyng to archive a fully working 3d printed hexapod 18 dof. No previous knowlege of 3d designing or printing. Self lerning and my determination brought me to this ...
 
 ## Table of content
 * [Status](#status)
@@ -11,11 +11,14 @@
 
 
 ## Status
-	<h1>In progress ...</h1>	
+	In progress ...
+
+## General Info
+	In progress ...
 
 ## So far
 
-Archived so far :
+Archived so far  
 	- Designed 3d parts od robot body
 	- 3d prnted designed parts
 	- First test of printed parts (do they fit together)
@@ -29,7 +32,7 @@ Archived so far :
 	This all steps took me about 1,5 month.
 
 ## History
-`in progress`
+	In progress
 
 
 
