@@ -7,6 +7,7 @@
 * [General Info](#general-info)
 * [So far](#so-far)
 * [Contact](#contact)
+* [Inspiration](#inspiration)
 
 
 
@@ -38,6 +39,9 @@ Archived so far
 ## Contact
 	Feel free to ask questions about this project at `patrykgruzlewski@gmail.com`
 
+## Inspiration
 
+	Name of the robot was suggested by the close friend, so thank You Robert  ;)
+	 
 
 
